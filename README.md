@@ -1,7 +1,7 @@
 # Hey!
 I'm Jake and this is my GitHub. I'm from the United Kingdom.
 
-I am a Student studying Computer Science, Electonics and Music Technology, I enjoy music and programming.
+I am a Student studying A-Level Computer Science, A-Level Electonics and BTEC Music Technology, I enjoy music and programming.
 
 I enjoy learning new things and I am always looking to learn more. I am also interested in learning more about the world of computers. I have access to GitHub Copilot, and OpenAI Codex to help me learn more about Programming and I am a Artic Vault Contributor.
 
