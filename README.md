@@ -61,6 +61,7 @@ InstantMessenger is a Project made by [Myself](https://github.com/JakeyGilly) an
 <a href="https://github.com/JakeyGilly/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeyGilly&layout=compacthttps://github-readme-stats.vercel.app/api/top-langs/?username=JakeyGilly&layout=compact&theme=dark" />
     </a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=JakeyGilly&theme=onedark)]
 </div>
 
     
