@@ -59,9 +59,11 @@ InstantMessenger is a Project made by [Myself](https://github.com/JakeyGilly) an
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JakeyGilly&theme=dark&date_format=j%20M%5B%20Y%5D" />
 </a>
 <a href="https://github.com/JakeyGilly/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeyGilly&layout=compacthttps://github-readme-stats.vercel.app/api/top-langs/?username=JakeyGilly&layout=compact&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeyGilly&layout=compact&theme=dark" />
     </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=JakeyGilly&theme=onedark)]
+<a href="https://github.com/JakeyGilly/">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=JakeyGilly&theme=onedark" />
+</a>
 </div>
 
     
