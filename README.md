@@ -17,6 +17,9 @@ I am confident with Python, Visual Basic, HTML, CSS and Unity. I am also learnin
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)![NVIM](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 </div>
 
+## Language History
+![history](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JakeyGilly)
+
 ### Here are some noteable projects which I programmed
 <details>
 <summary>Finder</summary>
