@@ -18,8 +18,9 @@ I am confident with Python, Visual Basic, HTML, CSS and Unity. I am also learnin
 </div>
 
 ## Language History
+<div align="center">
 <img align="center" height=500 src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JakeyGilly">
-
+</div>
 ### Here are some noteable projects which I programmed
 <details>
 <summary>Finder</summary>
