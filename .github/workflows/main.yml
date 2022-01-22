@@ -7,13 +7,37 @@ on:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
-  github-metrics:
+  personal-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRIC_TOKEN }}
           user: JakeyGilly
+          optimize: svg
+          experimental_features: --optimize-svg
+          base: header, activity, community, repositories, metadata
+          repositories_affiliations: owner, organization_member, collaborator
+  org-1-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRIC_TOKEN }}
+          filename: org-1.svg
+          user: FinderDiscord
+          optimize: svg
+          experimental_features: --optimize-svg
+          base: header, activity, community, repositories, metadata
+          repositories_affiliations: owner, organization_member, collaborator
+  org-2-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRIC_TOKEN }}
+          filename: org-2.svg
+          user: JohnCubeGames
           optimize: svg
           experimental_features: --optimize-svg
           base: header, activity, community, repositories, metadata
