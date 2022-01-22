@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
-      - with:
+      with:
           token: ${{ secrets.METRIC_TOKEN }}
           user: JakeyGilly
           optimize: svg
@@ -22,9 +22,8 @@ jobs:
   repo-1:
     runs-on: ubuntu-latest
     steps:
-      - name: Repository 1 Info a
       - uses: lowlighter/metrics@latest
-      - with:
+        with:
           token: ${{ secrets.METRIC_TOKEN }}
           filename: repo-1.svg
           template: repository
@@ -37,9 +36,8 @@ jobs:
   repo-2:
     runs-on: ubuntu-latest
     steps:
-      - name: Repository 2 Info
       - uses: lowlighter/metrics@latest
-      - with:
+        with:
           token: ${{ secrets.METRIC_TOKEN }}
           filename: repo-2.svg
           template: repository
