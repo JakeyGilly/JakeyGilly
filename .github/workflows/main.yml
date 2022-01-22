@@ -53,8 +53,7 @@ jobs:
         with:
           token: ${{ secrets.METRIC_TOKEN }}
           filename: repo.svg
-          template: repository
-          base: header
+          base: ""
           optimize: svg
           experimental_features: --optimize-svg
           plugin_repositories: yes
