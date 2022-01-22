@@ -14,4 +14,8 @@ jobs:
         with:
           token: ${{ secrets.METRIC_TOKEN }}
           user: JakeyGilly
+          optimize: svg
+          experimental_features: --optimize-svg
+          output_action: pull-request-merge
           base: header, activity, community, repositories, metadata
+          repositories_affiliations: owner, organization_member, collaborator
