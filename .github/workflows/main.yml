@@ -20,8 +20,7 @@ jobs:
           repositories_affiliations: owner, organization_member, collaborator
           plugin_habits: yes
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
+          plugin_habits_charts: no
           config_timezone: Europe/London
   org-1-metrics:
     runs-on: ubuntu-latest
