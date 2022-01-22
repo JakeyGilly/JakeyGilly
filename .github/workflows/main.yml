@@ -53,8 +53,8 @@ jobs:
           filename: repo-3.svg
           template: repository
           base: header
+          user: FinderDiscord
           repo: Finder
-          user: Finder
           optimize: svg
           experimental_features: --optimize-svg
           plugin_introduction: yes
