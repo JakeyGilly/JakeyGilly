@@ -58,4 +58,18 @@ jobs:
           optimize: svg
           experimental_features: --optimize-svg
           plugin_introduction: yes
+  repo-4:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRIC_TOKEN }}
+          filename: repo-4.svg
+          template: repository
+          base: header
+          user: Explorer017
+          repo: GMTK-GameJam-Entry-2021
+          optimize: svg
+          experimental_features: --optimize-svg
+          plugin_introduction: yes
           
