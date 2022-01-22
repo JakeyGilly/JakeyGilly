@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
-      with:
+        with:
           token: ${{ secrets.METRIC_TOKEN }}
           user: JakeyGilly
           optimize: svg
