@@ -22,10 +22,13 @@ jobs:
   repo-1:
     runs-on: ubuntu-latest
     steps:
+      - name: Repository 1 Info
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRIC_TOKEN }}
           filename: repo-1.svg
+          template: repository
+          base: header
           repo: CompactifierPlusPlus
           optimize: svg
           experimental_features: --optimize-svg
@@ -34,10 +37,13 @@ jobs:
   repo-2:
     runs-on: ubuntu-latest
     steps:
+      - name: Repository 2 Info
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRIC_TOKEN }}
           filename: repo-2.svg
+          template: repository
+          base: header
           repo: instant-messenger
           optimize: svg
           experimental_features: --optimize-svg
