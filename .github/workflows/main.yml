@@ -22,7 +22,7 @@ jobs:
   repo-1:
     runs-on: ubuntu-latest
     steps:
-      - name: Repository 1 Info
+      - name: Repository 1 Info a
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRIC_TOKEN }}
