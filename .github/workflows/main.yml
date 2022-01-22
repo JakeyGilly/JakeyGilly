@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   personal-metrics:
@@ -21,7 +18,10 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-          config_timezone: Europe/London
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
   org-1-metrics:
     runs-on: ubuntu-latest
     steps:
@@ -46,58 +46,17 @@ jobs:
           experimental_features: --optimize-svg
           base: header, activity, community, repositories, metadata
           repositories_affiliations: owner, organization_member, collaborator
-  repo-1:
+  repo:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRIC_TOKEN }}
-          filename: repo-1.svg
+          filename: repo.svg
           template: repository
           base: header
-          repo: CompactifierPlusPlus
           optimize: svg
           experimental_features: --optimize-svg
-          plugin_introduction: yes
-  repo-2:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@master
-        with:
-          token: ${{ secrets.METRIC_TOKEN }}
-          filename: repo-2.svg
-          template: repository
-          base: header
-          repo: instant-messenger
-          optimize: svg
-          experimental_features: --optimize-svg
-          plugin_introduction: yes
-  repo-3:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@master
-        with:
-          token: ${{ secrets.METRIC_TOKEN }}
-          filename: repo-3.svg
-          template: repository
-          base: header
-          user: FinderDiscord
-          repo: Finder
-          optimize: svg
-          experimental_features: --optimize-svg
-          plugin_introduction: yes
-  repo-4:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@master
-        with:
-          token: ${{ secrets.METRIC_TOKEN }}
-          filename: repo-4.svg
-          template: repository
-          base: header
-          user: Explorer017
-          repo: GMTK-GameJam-Entry-2021
-          optimize: svg
-          experimental_features: --optimize-svg
-          plugin_introduction: yes
+          plugin_repositories: yes
+          plugin_repositories_featured: JakeyGilly/CompactifierPlusPlus, JakeyGilly/instant-messenger, FinderDiscord/Finder, Explorer017/GMTK-GameJam-Entry-2021
           
