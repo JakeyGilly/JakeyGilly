@@ -44,4 +44,18 @@ jobs:
           optimize: svg
           experimental_features: --optimize-svg
           plugin_introduction: yes
+  repo-3:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRIC_TOKEN }}
+          filename: repo-2.svg
+          template: repository
+          base: header
+          user: Finder
+          repo: Finder
+          optimize: svg
+          experimental_features: --optimize-svg
+          plugin_introduction: yes
           
