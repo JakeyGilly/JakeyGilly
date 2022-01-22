@@ -16,7 +16,6 @@ jobs:
           user: JakeyGilly
           optimize: svg
           experimental_features: --optimize-svg
-          output_action: pull-request-merge
           base: header, activity, community, repositories, metadata
           repositories_affiliations: owner, organization_member, collaborator
   repo-1:
@@ -31,7 +30,6 @@ jobs:
           repo: CompactifierPlusPlus
           optimize: svg
           experimental_features: --optimize-svg
-          output_action: pull-request-merge
           plugin_introduction: yes
   repo-2:
     runs-on: ubuntu-latest
@@ -45,6 +43,5 @@ jobs:
           repo: instant-messenger
           optimize: svg
           experimental_features: --optimize-svg
-          output_action: pull-request-merge
           plugin_introduction: yes
           
