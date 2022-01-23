@@ -20,7 +20,7 @@ I am confident with Python, Visual Basic, HTML, CSS and Unity. I am also learnin
 	<img align="center" src="/github-metrics.svg" width=400>
 	<img align="center" src="/github-metrics-2.svg" width=400>
 	<a href="https://github.com/JakeyGilly/">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JakeyGilly&show_icons=true&theme=dark&title_color=green&count_private=true&size=" width=480/>
+	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JakeyGilly&show_icons=true&theme=dark&title_color=green&count_private=true&size=" width=400/>
 	</a>
 	<a href="https://github.com/JakeyGilly/">
 	  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JakeyGilly&theme=dark&date_format=j%20M%5B%20Y%5D" width=400/>
