@@ -30,6 +30,7 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
           plugin_isocalendar: yes
           plugin_isocalender_duration: half-year
+          plugin_traffic: yes
           
   org-1-metrics:
     runs-on: ubuntu-latest
