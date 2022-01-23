@@ -26,6 +26,9 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage, lines
           plugin_lines: yes
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
+          
   org-1-metrics:
     runs-on: ubuntu-latest
     steps:
