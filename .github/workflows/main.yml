@@ -29,7 +29,7 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRIC_TOKEN }}
-          filename: github-metrics-2
+          filename: github-metrics-2.svg
           user: JakeyGilly
           optimize: svg
           experimental_features: --optimize-svg
