@@ -18,20 +18,29 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage, lines
           plugin_lines: yes
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
+          plugin_traffic: yes
+  personal-metrics-2:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRIC_TOKEN }}
+          user: JakeyGilly
+          optimize: svg
+          experimental_features: --optimize-svg
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalender_duration: half-year
-          plugin_traffic: yes
-          
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
   org-1-metrics:
     runs-on: ubuntu-latest
     steps:
