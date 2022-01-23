@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="278" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="312" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1523,7 +1523,7 @@
                   </div>
                 </div>
                 <div class="field description">
-                  
+                  A Simple Instant Messenger app made in Python3. Avalible in GUI or Terminal versions
                 </div>
                 <div class="field infos">
                   
