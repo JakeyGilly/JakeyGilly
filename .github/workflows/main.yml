@@ -35,7 +35,7 @@ jobs:
           experimental_features: --optimize-svg
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalender_duration: half-year
+          plugin_isocalender_duration: full-year
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
           plugin_activity: yes
