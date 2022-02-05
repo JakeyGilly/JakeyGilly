@@ -208,7 +208,7 @@
     margin: 0 4px;
     color: inherit;
   }
-  .contribution .commits-icon {
+  .contribution .icon {
     fill: currentColor;
     width: 10px;
     height: 10px;
@@ -1492,7 +1492,7 @@
                   
                   <div class="name">
                     <span>JakeyGilly/CompactifierPlusPlus</span>
-                    <span>created 16 days ago</span>
+                    <span>created 17 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
