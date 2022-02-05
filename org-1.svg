@@ -208,7 +208,7 @@
     margin: 0 4px;
     color: inherit;
   }
-  .contribution .commits-icon {
+  .contribution .icon {
     fill: currentColor;
     width: 10px;
     height: 10px;
@@ -1628,7 +1628,7 @@
       
         <footer>
           
-          <span>Last updated 4 Feb 2022, 00:49:03  with lowlighter/metrics@3.20.0-beta</span>
+          <span>Last updated 5 Feb 2022, 00:41:02  with lowlighter/metrics@3.20.0-beta</span>
         </footer>
       
 
