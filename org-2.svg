@@ -857,7 +857,8 @@
 
 /* Star lists */
   .starlist {
-    margin-left: 28px;
+    padding-left: 28px;
+    width: 460px;
   }
   .starlist &gt; .description, .starlist &gt; .count {
     margin-left: 32px;
@@ -873,11 +874,18 @@
   .starlist .repository {
     margin: 6px 0 0;
   }
-  .starlist .repository .description {
+  .starlist .repository .description, .starlist .repository .infos {
     font-size: 11px;
   }
   .starlist .repository .name {
     font-size: 14px;
+  }
+  .starlist .languages {
+    margin-top: 6px;
+    padding-left: 13px;
+  }
+  .starlist .languages svg.bar {
+    margin-left: 18px;
   }
 
 /* Anilist */
@@ -1633,7 +1641,7 @@
       
         <footer>
           
-          <span>Last updated 8 Feb 2022, 00:49:47  with lowlighter/metrics@3.20.0-beta</span>
+          <span>Last updated 9 Feb 2022, 00:51:54  with lowlighter/metrics@3.20.0-beta</span>
         </footer>
       
 
