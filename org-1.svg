@@ -483,6 +483,9 @@
     line-height: 14px;
     height: 14px;
     font-weight: 600;
+  }
+  .track .name, .track .artist {
+    width: 387px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -497,9 +500,6 @@
   svg.large .tracklist {
     flex-direction: row;
     flex-wrap: wrap;
-  }
-  svg.large .track {
-    width: 50%;
   }
 
 /* Posts plugin */
@@ -1642,7 +1642,7 @@
       
         <footer>
           
-          <span>Last updated 9 Mar 2022, 00:57:56  with lowlighter/metrics@3.21.0</span>
+          <span>Last updated 10 Mar 2022, 01:01:29  with lowlighter/metrics@3.22.0-beta</span>
         </footer>
       
 
