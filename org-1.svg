@@ -338,15 +338,15 @@
   }
 
 /* Habits */
-  .habits {
+  .habits .facts {
     margin: 0;
     list-style-type: none;
     padding-left: 37px;
   }
 
-/* Stargazers */
+/* Chartist */
 /* purgecss ignore */
-  .stargazers .chartist .ct-post {
+  .chartist .ct-post {
     fill: rgba(127, 127, 127, 0.8) !important;
     color: rgba(127, 127, 127, 0.8) !important;
     font-size: 9px;
@@ -1074,6 +1074,9 @@
   .sponsors .avatar {
     margin: 2px;
   }
+  .sponsors .avatar.past {
+    opacity: 0.3;
+  }
 
 /* Stackoverflow */
   .stackoverflow {
@@ -1368,6 +1371,10 @@
     display: flex;
     margin-left: -12px;
   }
+  .ct-chart-pie .ct-label {
+    fill: rgba(255, 255, 255, 0.8) !important;
+    color: rgba(255, 255, 255, 0.8) !important;
+  }
   .ct-line {
     stroke-width: 2px !important;
     stroke: #58A6FF !important;
@@ -1648,7 +1655,7 @@
       
         <footer>
           
-          <span>Last updated 22 Mar 2022, 01:00:07  with lowlighter/metrics@3.22.0-beta</span>
+          <span>Last updated 23 Mar 2022, 01:06:26  with lowlighter/metrics@3.22.0-beta</span>
         </footer>
       
 
