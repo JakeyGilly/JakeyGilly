@@ -150,6 +150,9 @@
     border-radius: 50%;
     margin: 0 6px;
   }
+  .avatar.past {
+    filter: opacity(0.5);
+  }
 
   .organization.avatar {
     border-radius: 15%;
@@ -200,13 +203,12 @@
   }
   .contribution .gauge text {
     fill: currentColor;
-    font-size: 12px;
-    font-size: 15px;
-    letter-spacing: -2px;
+    font-size: 13px;
   }
   .contribution .gauge {
-    margin: 0 4px;
+    margin: 0 6px;
     color: inherit;
+    transform: scale(1.4) translateY(1px);
   }
   .contribution .icon {
     fill: currentColor;
@@ -278,6 +280,12 @@
     width: 100%;
     justify-content: flex-end;
     font-size: 12px;
+  }
+  .footnote.warning {
+    color: #D79533;
+  }
+  .footnote.warning svg {
+    fill: #D79533;
   }
 
 /* Follow-up */
@@ -1074,9 +1082,6 @@
   .sponsors .avatar {
     margin: 2px;
   }
-  .sponsors .avatar.past {
-    opacity: 0.3;
-  }
 
 /* Stackoverflow */
   .stackoverflow {
@@ -1655,7 +1660,7 @@
       
         <footer>
           
-          <span>Last updated 23 Apr 2022, 01:07:56  with lowlighter/metrics@3.23.0-beta</span>
+          <span>Last updated 24 Apr 2022, 01:04:22  with lowlighter/metrics@3.23.0-beta</span>
         </footer>
       
 
