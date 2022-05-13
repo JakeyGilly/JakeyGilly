@@ -1525,7 +1525,7 @@
                   </div>
                 </div>
                 <div class="field description">
-                  A C++ tool used to compress Python code (more soon!) down as much ass possible.
+                  A C++ tool used to compress Python, C and C++ code down as much as possible.
                 </div>
                 <div class="field infos">
                   
