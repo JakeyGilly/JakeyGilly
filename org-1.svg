@@ -924,6 +924,14 @@
   .project .items, .project-items {
     padding-left: 11px;
   }
+  .project .items .text, .project-items .text {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 426px;
+  }
+  .large .project .items .text, .large .project-items .text {
+    width: 916px;
+  }
 
 /* Star lists */
   .starlist {
@@ -1711,7 +1719,7 @@
       
         <footer>
           
-          <span>Last updated 8 Aug 2022, 01:21:16  with lowlighter/metrics@3.27.0-beta</span>
+          <span>Last updated 9 Aug 2022, 01:27:53  with lowlighter/metrics@3.27.0-beta</span>
         </footer>
       
 
