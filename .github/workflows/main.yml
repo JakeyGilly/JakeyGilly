@@ -42,18 +42,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
-  org-1-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@master
-        with:
-          token: ${{ secrets.METRIC_TOKEN }}
-          filename: org-1.svg
-          user: FinderDiscord
-          optimize: svg
-          experimental_features: --optimize-svg
-          base: header, activity, community, repositories, metadata
-          repositories_affiliations: owner, organization_member, collaborator
   repo:
     runs-on: ubuntu-latest
     steps:
@@ -65,5 +53,5 @@ jobs:
           optimize: svg
           experimental_features: --optimize-svg
           plugin_repositories: yes
-          plugin_repositories_featured: JakeyGilly/CompactifierPlusPlus, JakeyGilly/instant-messenger, FinderDiscord/Finder, Explorer017/GMTK-GameJam-Entry-2021
+          plugin_repositories_featured: JakeyGilly/CompactifierPlusPlus, JakeyGilly/instant-messenger, JakeyGilly/FinderBot, JakeyGilly/FinderWeb, Explorer017/GMTK-GameJam-Entry-2021
           
