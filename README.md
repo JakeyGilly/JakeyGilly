@@ -1,6 +1,6 @@
 
 # Hey!
-I'm Jake and this is my GitHub. I'm from the Nottinghamshire, United Kingdom.
+I'm Jake and this is my GitHub. I'm from Nottinghamshire, England.
 
 I am a Student studying A-Level Computer Science, A-Level Electonics and BTEC Music Technology, I enjoy music and programming.
 
