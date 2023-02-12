@@ -53,5 +53,5 @@ jobs:
           optimize: svg
           experimental_features: --optimize-svg
           plugin_repositories: yes
-          plugin_repositories_featured: JakeyGilly/CompactifierPlusPlus, JakeyGilly/instant-messenger, JakeyGilly/FinderBot, JakeyGilly/FinderWeb, Explorer017/GMTK-GameJam-Entry-2021
+          plugin_repositories_featured: JakeyGilly/CompactifierPlusPlus, JakeyGilly/instant-messenger, JakeyGilly/Finder.Bot, JakeyGilly/Finder.Web, Explorer017/GMTK-GameJam-Entry-2021
           
