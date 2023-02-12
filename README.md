@@ -6,9 +6,11 @@ I am a Student studying A-Level Computer Science, A-Level Electonics and BTEC Mu
 
 I enjoy learning new things and I am always looking to learn more. I am also interested in learning more about the world of computers. I have access to GitHub Copilot, and OpenAI Codex to help me learn more about Programming and I am a Artic Vault Contributor.
 
-Currently I am learning Ethical Hacking/Cybersecurity
+I have attended some hackathons including HackNotts 2023 and Reading Hackathon 2022
 
-I am confident with Python, Visual Basic, HTML, CSS and Unity. I am also learning C, C++, C#, Java and Assembly.
+Currently I am learning Hardware and Electronics
+
+I am confident with Python, C, C#, C++, Java, Visual Basic, HTML, CSS, Unity and Assembly
 
 
 <div align="center">
