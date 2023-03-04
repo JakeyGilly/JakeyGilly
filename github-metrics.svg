@@ -1631,9 +1631,9 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
               <g>
                 
-                  <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2094,7 +2094,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 3 Mar 2023, 03:04:37  with lowlighter/metrics@3.33.0-beta</span>
+          <span>Last updated 4 Mar 2023, 01:06:40  with lowlighter/metrics@3.33.0-beta</span>
         </footer>
       
 
