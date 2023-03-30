@@ -8,6 +8,8 @@ I enjoy learning new things and I am always looking to learn more. I am also int
 
 I have attended some hackathons including HackNotts 2023 and Reading Hackathon 2022
 
+I have organised a Capture the flag competition event for schools across Northen Ireland called <a src="https://github.com/dandabs/CodeCompCTF">IglooCode</a> with others at Queens University Belfast sponsored by Kainos and Liberty IT and developped the Capture the flag platform
+
 Currently I am learning Hardware and Electronics
 
 I am confident with Python, C, C#, C++, Java, Visual Basic, HTML, CSS, Unity and Assembly
