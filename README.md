@@ -4,7 +4,7 @@ I'm Jake and this is my GitHub. I'm from Nottinghamshire, England.
 
 I am a Student studying A-Level Computer Science, A-Level Electonics and BTEC Music Technology, I enjoy music and programming.
 
-I enjoy learning new things and I am always looking to learn more. I am also interested in learning more about the world of computers. I have access to GitHub Copilot, and OpenAI Codex to help me learn more about Programming and I am a Artic Vault Contributor.
+I enjoy learning new things and I am always looking to learn more. I am also interested in learning more about the world of computers. I have access to GitHub Copilot to help me learn more about Programming and I am a Artic Vault Contributor.
 
 I have attended some hackathons including HackNotts 2023 and Reading Hackathon 2022
 
