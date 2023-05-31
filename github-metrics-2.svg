@@ -2693,6 +2693,11 @@
                       <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                    </g>
+                    <g transform="translate(-3.4, 8)">
+                      <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                     </g></g></g></svg>
     
   </section>
@@ -2906,7 +2911,7 @@
           
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/></svg>
-              ~3 hours of coding per day
+              ~2 hours of coding per day
             </div>
           
           
@@ -2935,14 +2940,20 @@
                   
                     <div class="entry">
                       <span class="name">ig_app</span>
-                      <div class="bar" style="width: 43.72%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                      <span class="value">55%</span>
+                      <div class="bar" style="width: 43.48%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <span class="value">54%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">ig_server</span>
-                      <div class="bar" style="width: 36.28%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <div class="bar" style="width: 36.08%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                       <span class="value">45%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">SteamDesktopAuthenticator</span>
+                      <div class="bar" style="width: 0.44000000000000006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">1%</span>
                     </div>
                   
                 
@@ -2956,31 +2967,31 @@
                   
                     <div class="entry">
                       <span class="name">TypeScript</span>
-                      <div class="bar" style="width: 71.928%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">90%</span>
+                      <div class="bar" style="width: 71.536%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">89%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">GraphQL</span>
-                      <div class="bar" style="width: 4.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 4.896000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">6%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Bash</span>
-                      <div class="bar" style="width: 2.936%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 2.92%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">4%</span>
                     </div>
                   
                     <div class="entry">
-                      <span class="name">JavaScript</span>
-                      <div class="bar" style="width: 0.05600000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="name">XML</span>
+                      <div class="bar" style="width: 0.16799999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">0%</span>
                     </div>
                   
                     <div class="entry">
-                      <span class="name">TSConfig</span>
-                      <div class="bar" style="width: 0.05600000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="name">Text</span>
+                      <div class="bar" style="width: 0.16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">0%</span>
                     </div>
                   
