@@ -2,15 +2,13 @@
 # Hey!
 I'm Jake and this is my GitHub. I'm from Nottinghamshire, England.
 
-I am a Student studying A-Level Computer Science, A-Level Electonics and BTEC Music Technology, I enjoy music and programming.
+I am a Student studying Electronic and Computer Engineering at the University of York, I enjoy music and programming.
 
 I enjoy learning new things and I am always looking to learn more. I am also interested in learning more about the world of computers. I have access to GitHub Copilot to help me learn more about Programming and I am a Artic Vault Contributor.
 
 I have attended some hackathons including HackNotts 2023 and Reading Hackathon 2022
 
 I have organised a Capture the flag competition event for schools across Northen Ireland called [IglooCode](https://iglooco.de) with others at Queens University Belfast sponsored by Kainos and Liberty IT and developed the Capture the flag platform
-
-Currently I am learning Hardware and Electronics
 
 I am confident with Python, C, C#, C++, Java, Visual Basic, HTML, CSS, Unity and Assembly
 
