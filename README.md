@@ -2,7 +2,7 @@
 # Hey!
 I'm Jake and this is my GitHub. I'm from Nottinghamshire, England.
 
-I am a Student studying Electronic and Computer Engineering at the University of York, I enjoy music and programming.
+I am a Student studying Electronic Engineering at the University of York, I enjoy music and programming.
 
 I enjoy learning new things and I am always looking to learn more. I am also interested in learning more about the world of computers. I have access to GitHub Copilot to help me learn more about Programming and I am a Artic Vault Contributor.
 
