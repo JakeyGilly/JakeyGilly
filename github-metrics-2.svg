@@ -2693,6 +2693,11 @@
                       <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                    </g>
+                    <g transform="translate(-3.4, 8)">
+                      <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                     </g></g></g></svg>
     
   </section>
@@ -2935,14 +2940,8 @@
                   
                     <div class="entry">
                       <span class="name">educatr-server-go</span>
-                      <div class="bar" style="width: 75.352%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">94%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">Unknown Project</span>
-                      <div class="bar" style="width: 4.648%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">6%</span>
+                      <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">100%</span>
                     </div>
                   
                 
@@ -2956,14 +2955,8 @@
                   
                     <div class="entry">
                       <span class="name">Go</span>
-                      <div class="bar" style="width: 75.352%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">94%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">JSON</span>
-                      <div class="bar" style="width: 4.648%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">6%</span>
+                      <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">100%</span>
                     </div>
                   
                 
