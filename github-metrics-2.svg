@@ -2673,6 +2673,11 @@
                       <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                    </g>
+                    <g transform="translate(-8.5, 11)">
+                      <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                     </g></g></g></svg>
     
   </section>
@@ -2915,20 +2920,20 @@
                   
                     <div class="entry">
                       <span class="name">educatr</span>
-                      <div class="bar" style="width: 73.23200000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">92%</span>
+                      <div class="bar" style="width: 70.768%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">88%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">hackingsam</span>
-                      <div class="bar" style="width: 5.648%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">7%</span>
+                      <div class="bar" style="width: 8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">10%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">nvim</span>
-                      <div class="bar" style="width: 1.1199999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">1%</span>
+                      <div class="bar" style="width: 1.232%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">2%</span>
                     </div>
                   
                 
@@ -2942,32 +2947,32 @@
                   
                     <div class="entry">
                       <span class="name">TypeScript</span>
-                      <div class="bar" style="width: 67.24000000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">84%</span>
+                      <div class="bar" style="width: 70.664%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">88%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Python</span>
-                      <div class="bar" style="width: 5.648%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">7%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">Bash</span>
-                      <div class="bar" style="width: 4.384%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">5%</span>
+                      <div class="bar" style="width: 8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">10%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Lua</span>
-                      <div class="bar" style="width: 1.1199999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">1%</span>
+                      <div class="bar" style="width: 1.232%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">2%</span>
                     </div>
                   
                     <div class="entry">
-                      <span class="name">Other</span>
-                      <div class="bar" style="width: 0.6320000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">1%</span>
+                      <span class="name">Prisma</span>
+                      <div class="bar" style="width: 0.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">0%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">TSConfig</span>
+                      <div class="bar" style="width: 0.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">0%</span>
                     </div>
                   
                 
