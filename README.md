@@ -6,7 +6,7 @@ I am a Student studying Electronic Engineering at the University of York, I enjo
 
 I enjoy learning new things and I am always looking to learn more. I am also interested in learning more about the world of computers. I have access to GitHub Copilot to help me learn more about Programming and I am a Artic Vault Contributor.
 
-I have attended some hackathons including Durhack 2023, HackNotts 2022 and Reading Hackathon 2022
+I have attended some hackathons including Durhack 2023, HackNotts 2022 and 2024 and Reading Hackathon 2022
 
 I have organised a Capture the flag competition event for schools across Northen Ireland called [IglooCode](https://iglooco.de) with others at Queens University Belfast sponsored by Kainos and Liberty IT and developed the Capture the flag platform
 
