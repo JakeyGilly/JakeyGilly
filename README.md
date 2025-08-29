@@ -2,13 +2,13 @@
 # Hey!
 I'm Jake and this is my GitHub. I'm from Nottinghamshire, England.
 
-I am a Student studying Electronic Engineering at the University of York, I enjoy music and programming.
+I am a student studying Electronic Engineering at the University of York, I enjoy music and programming.
 
-I have attended some hackathons including Durhack 2023, HackNotts 2023 and 2024 and Reading Hackathon 2022
+I have attended some hackathons including Durhack 2023, HackNotts 2023 and 2024 and Reading Hackathon 2022.
 
-I have organised a Capture the flag competition event for schools across Northen Ireland called [IglooCode](https://iglooco.de) with others at Queens University Belfast sponsored by Kainos and Liberty IT and developed the Capture the flag platform
+I have organised a Capture the Flag competition event for schools across Northen Ireland called [IglooCode](https://iglooco.de) with others at Queen's University Belfast, sponsored by Kainos and Liberty IT, and developed the Capture the Flag platform.
 
-I am confident with Python, C, C#, C++, Java, Javascript/Typescript, Go, Visual Basic, HTML, CSS, Unity and Assembly
+I am confident with Python, C, C#, C++, Java, Javascript/Typescript, Go, Visual Basic, HTML, CSS, Unity and Assembly.
 
 
 <div align="center">
@@ -29,7 +29,7 @@ I am confident with Python, C, C#, C++, Java, Javascript/Typescript, Go, Visual 
 	</a>
 </div>
 
-### Here are some noteable projects which I programmed
+### Here are some notable projects which I programmed
 <div align="center">
 	<a src="https://github.com/JakeyGilly?tab=repositories"><img align="center" src="/repo.svg"></a>
 </div>
