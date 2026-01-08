@@ -4,7 +4,7 @@ I'm Jake and this is my GitHub. I'm from Nottinghamshire, England.
 
 I am a student studying Electronic Engineering at the University of York, I enjoy music and programming.
 
-I have attended some hackathons including Durhack 2023, HackNotts 2023 and 2024 and Reading Hackathon 2022.
+I have attended some hackathons including Durhack 2023, HackNotts 2023 and 2024 and Reading Hackathon 2022. I also participated in the Final of the UK Cyber Team Competition.
 
 I have organised a Capture the Flag competition event for schools across Northen Ireland called [IglooCode](https://iglooco.de) with others at Queen's University Belfast, sponsored by Kainos and Liberty IT, and developed the Capture the Flag platform.
 
