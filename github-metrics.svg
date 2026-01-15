@@ -1716,9 +1716,9 @@
                 
                   <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2165,7 +2165,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 14 Jan 2026, 01:43:11  with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 15 Jan 2026, 01:27:53  with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
