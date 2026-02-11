@@ -2693,6 +2693,11 @@
                       <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                    </g>
+                    <g transform="translate(-3.4, 8)">
+                      <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                     </g></g></g></svg>
     
   </section>
@@ -2797,8 +2802,14 @@
                   
                     <div class="entry">
                       <span class="name">educatr-monorepo</span>
-                      <div class="bar" style="width: 79.88%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">100%</span>
+                      <div class="bar" style="width: 79.44%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">99%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">lecture-1</span>
+                      <div class="bar" style="width: 0.44800000000000006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">1%</span>
                     </div>
                   
                     <div class="entry">
@@ -2818,31 +2829,31 @@
                   
                     <div class="entry">
                       <span class="name">TypeScript</span>
-                      <div class="bar" style="width: 75.88%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">95%</span>
+                      <div class="bar" style="width: 75.42399999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">94%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">SQL</span>
-                      <div class="bar" style="width: 1.92%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 1.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">2%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">JSON</span>
-                      <div class="bar" style="width: 1.568%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 1.5759999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">2%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">Java</span>
+                      <div class="bar" style="width: 0.44800000000000006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">1%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Markdown</span>
                       <div class="bar" style="width: 0.27999999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">0%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">TSConfig</span>
-                      <div class="bar" style="width: 0.16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">0%</span>
                     </div>
                   
