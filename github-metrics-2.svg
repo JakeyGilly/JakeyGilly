@@ -2693,6 +2693,11 @@
                       <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                    </g>
+                    <g transform="translate(-3.4, 8)">
+                      <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                     </g></g></g></svg>
     
   </section>
@@ -2797,14 +2802,8 @@
                   
                     <div class="entry">
                       <span class="name">educatr-monorepo</span>
-                      <div class="bar" style="width: 79.59199999999998%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">99%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">lecture-1</span>
-                      <div class="bar" style="width: 0.40800000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">1%</span>
+                      <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">100%</span>
                     </div>
                   
                 
@@ -2818,31 +2817,31 @@
                   
                     <div class="entry">
                       <span class="name">TypeScript</span>
-                      <div class="bar" style="width: 63.6%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <div class="bar" style="width: 64.376%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                       <span class="value">80%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">JSON</span>
-                      <div class="bar" style="width: 11.176000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 10.920000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">14%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">CSS</span>
-                      <div class="bar" style="width: 1.5359999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 1.5039999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">2%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">TSConfig</span>
-                      <div class="bar" style="width: 0.976%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 0.96%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">1%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">JavaScript</span>
-                      <div class="bar" style="width: 0.6559999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 0.64%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">1%</span>
                     </div>
                   
