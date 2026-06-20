@@ -19,7 +19,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: no
           plugin_languages: yes
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no
           plugin_languages_details: bytes-size, percentage, lines
           plugin_lines: yes
           plugin_traffic: yes
