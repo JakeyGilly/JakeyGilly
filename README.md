@@ -9,6 +9,9 @@ I have attended some hackathons including Durhack 2023, HackNotts 2023 and 2024 
 I have organised a Capture the Flag competition event for schools across Northen Ireland called [IglooCode](https://iglooco.de) with others at Queen's University Belfast, sponsored by Kainos and Liberty IT, and developed the Capture the Flag platform.
 
 I am confident with Python, C, C#, C++, Java, Javascript/Typescript, Go, Visual Basic, HTML, CSS, Unity and Assembly.
+<div align="center">
+<a href="https://wakatime.com/@0391c651-2fbc-4e29-ab2b-0fe3d02308c4"><img src="https://wakatime.com/badge/user/0391c651-2fbc-4e29-ab2b-0fe3d02308c4.svg" alt="Total time coded since Jan 22 2022" /></a>
+</div>
 
 
 <div align="center">
